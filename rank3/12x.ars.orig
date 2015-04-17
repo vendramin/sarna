@@ -1,0 +1,12 @@
+# Arithmetic root system
+rank=3
+# Do we want arrows from the origin?
+noarrows
+# order of the primitive root z
+order=6
+# braid
+# every element of this matrix q=(q_ij) is of the form z^(q_ij)
+braid
+1;61;0
+0;31;2
+0;0;2

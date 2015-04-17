@@ -1,0 +1,12 @@
+Changes:
+========
+	* 12/07/07:
+		Classes NicholsAlgebra, WeylGroupoid, MainApp defined
+		Files methods.py, console.py, mainapp.py created based on ars.py (RIP)
+		Datafiles rank2/*.ars and rank3/*.ars changed: added line 'type=diagonal' 
+		gui.py is not working at all. It must be completely rewritten.
+	* 14/07/07:
+		gui.py is working!
+	* 20/07/07:
+		GTK UI is working!
+

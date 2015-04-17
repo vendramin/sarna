@@ -1,0 +1,12 @@
+# Arithmetic root system
+rank=4
+type=diagonal
+# order of the primitive root z
+order=6
+# braid
+# every element of this matrix q=(q_ij) is of the form z^(q_ij)
+braid
+3;5;0;0
+0;3;1;0
+0;0;3;5
+0;0;0;2

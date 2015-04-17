@@ -1,0 +1,28 @@
+TODO LIST:
+    console.py:
+        * testing
+        * print dimension table in a better way
+    mainapp.py
+        * save all the information
+    gui.py:
+        * Generalized Dynkin diagrams 
+        * print dimension as rat. function nicer
+        * one file for all dialogs (avoid imports such as SimpleDialog, tkSimpleDialog, tkMessageBox)
+    groupoid.py
+        * how many m_ij are different?
+    nichols.py:
+        * test dimensions
+        * truncated dimension table
+    GTK_gui:
+        * better dialogs (text_view, for example)
+        * pretty print (hilbert series, for example)
+        * add references in help menu
+        * details (file, rank, number of roots, number of bases, longest element in groupoid)
+        * pretty print for the braid
+        * dynkin diagram
+        * gnuplot options dialog
+        * gnuplot redraw
+        * save gnuplot file
+        * fix: gnuplot enter command
+        
+    

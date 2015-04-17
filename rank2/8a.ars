@@ -1,0 +1,14 @@
+# Arithmetic root system
+# Heckenberger, I.
+# Classification of arithmetic root systems of rank 3, Table 1, p. 6
+# math.QA/0509145
+description="8a"
+type=diagonal
+rank=2
+# order of the primitive root z
+order=12
+# braid
+# every element of this matrix q=(q_ij) is of the form z^(q_ij)
+braid
+4;9
+0;8
